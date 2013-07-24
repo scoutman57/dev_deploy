@@ -1,4 +1,4 @@
 dev_deploy
 ==========
 
-Simple SVN deployment script
+Simple SVN deployment scripts
